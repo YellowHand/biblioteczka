@@ -35,6 +35,8 @@ Opis istniejących funkcjonalności:
   
  ## Instalacja
   Aby uruchomić aplikację niezbędne są python 3.8 i django 3.0, oraz wykonanie następujących poleceń:
+  
+  ```
 	pipenv shell
 	cd backend
 	pipenv install Procfile
