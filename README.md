@@ -8,8 +8,8 @@ Autorzy: Paweł Borkowski, Katarzyna Kowalska
 * [Technologie](#technologie)
 * [Funkcjonalności](#funkcjonalności)
 * [Instalacja](#instalacja)
-* [Testy](#testy)
 
+<img src="bibl.png"/>
 
 ## Informacje
 
@@ -37,15 +37,13 @@ Opis istniejących funkcjonalności:
   Aby uruchomić aplikację niezbędne są python 3.8 i django 3.0, oraz wykonanie następujących poleceń:
   
   ```
-	pipenv shell
+  	pipenv shell
 	cd backend
 	pipenv install Procfile
 	python manage.py runserver
 	cd frontend
 	npm i
 	npm start
-	
-	
 ```
  
 
